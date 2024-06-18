@@ -93,7 +93,6 @@ We release the DeepSeek-Coder-V2 with 16B and 236B parameters based on the [Deep
 | **Claude-3-Opus**                   |  -   |  -   |   84.2    |   72.0    |   34.6   |   7.8    |
 | **GPT-4-Turbo-1106**                |  -   |  -   |   87.8    |   69.3    |   37.1   |   11.1   |
 | **GPT-4-Turbo-0409**                |  -   |  -   |   88.2    |   72.2    | **45.7** |   12.3   |
-| **GPT-4o-0513**                     |  -   |  -   | **91.0** |   73.5    |   43.4   | **18.8** |
 | **Open-Source Models**              |      |      |           |           |          |          |
 | **CodeStral**                       | 22B  | 22B  |   78.1    |   68.2    |   31.0   |   4.6    |
 | **DeepSeek-Coder-Instruct**         | 33B  | 33B  |   79.3    |   70.1   |   22.5   |   4.2    |
@@ -139,7 +138,6 @@ We release the DeepSeek-Coder-V2 with 16B and 236B parameters based on the [Deep
 | **Claude-3-Opus**                   |  -   |  -   |   95.0   |   60.1   |   2/30    |     40.6     |
 | **GPT-4-Turbo-1106**                |  -   |  -   |   91.4   |   64.3   |   1/30    |     49.1     |
 | **GPT-4-Turbo-0409**                |  -   |  -   |   93.7   |   73.4   | **3/30**  |     46.8     |
-| **GPT-4o-0513**                     |  -   |  -   | **95.8** | **76.6** |   2/30    |   **53.2**   |
 | **Open-Source Models**              |      |      |          |          |           |              |
 | **Llama3-Instruct**                 | 70B  | 70B  |   93.0   |   50.4   |   1/30    |     27.9     |
 | **DeepSeek-Coder-V2-Lite-Instruct** | 16B  | 2.4B |   86.4   |   61.8   |   0/30    |     44.4     |
